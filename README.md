@@ -1,8 +1,8 @@
-## Interface
-![Presentation](https://github.com/whalyf/bitcent/blob/master/public/presentation.gif)
-
 ## Project
 This application is a platform designed to help you control your finances, manage your expenses, and keep track of your debts. It was built with [Next.js](https://nextjs.org/), Typescript, TailwindCSS, Firebase, and GoogleAuth. With this application, you can easily monitor your money, organize your recipes, and track your debts, all in one place.
+
+## Interface
+![Presentation](https://github.com/whalyf/bitcent/blob/master/public/presentation.gif)
 
 ## Getting Started
 
